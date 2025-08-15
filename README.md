@@ -1,7 +1,8 @@
-# Health Tracker
+# Health Tracker (Console-Based)
 A C++ console project designed for patients and doctors to manage medical records efficiently. Patients can log health data (symptoms, temperature), set medicine reminders, and receive pre-defined advice via DoctorBot. Doctors have secure, read-only access to patient records.
 
- Key Features:
+ # Key Features:
+ 
 Role-based access (Patient/Doctor)
 
 Symptom tracking & analysis
