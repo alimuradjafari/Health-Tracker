@@ -3,14 +3,14 @@ A C++ console project designed for patients and doctors to manage medical record
 
  # Key Features:
  
-Role-based access (Patient/Doctor)
+- Role-based access (Patient/Doctor)
 
-Symptom tracking & analysis
+- Symptom tracking & analysis
 
-Medicine reminder system
+- Medicine reminder system
 
-Interactive DoctorBot chatbot
+- Interactive DoctorBot chatbot
 
-File-based data persistence
+- File-based data persistence
 
 Built with OOP principles, STL containers, and modular architecture. Ideal for learning C++ file I/O, polymorphism, and user management systems.
